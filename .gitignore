@@ -4,11 +4,6 @@
 !.env.example
 
 # Médias volumineux
-src_2
-
-# Documents volumineux
-*.pdf
-
-# Fichiers système
-.DS_Store
-Thumbs.db
+src_2/court metrages
+src_2/photos
+src_2/son
