@@ -1,0 +1,17 @@
+# Variables d'environnement
+.env
+.env.*
+!.env.example
+
+# Médias volumineux
+*.mov
+*.mp4
+*.wav
+*.mp3
+
+# Documents volumineux
+*.pdf
+
+# Fichiers système
+.DS_Store
+Thumbs.db
